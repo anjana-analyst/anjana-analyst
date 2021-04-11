@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjana-analyst
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning data analytics and EDA
+- 🌱 I’m currently working on CTF's,Web Dev and data analytics
 
 
 <!---
